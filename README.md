@@ -24,18 +24,13 @@ https://github.com/lerocha/chinook-database
 ---
 ## Setup Instructions
 
-1. Install MySQL (if not installed)
-
-2. Create a database
+1. Create database
    CREATE DATABASE chinook;
 
-3. Select the database
-   USE chinook;
+2. Import dataset
+   mysql -u <username> -p chinook < Chinook_MySql.sql
 
-4. Import the Chinook schema and data  
-   (Run the downloaded SQL file inside MySQL)
-
-5. Run queries from the /queries folder
+3. Run queries from the /queries directory
 ---
 ## Objectives
 The analysis answers business-relevant questions such as:
