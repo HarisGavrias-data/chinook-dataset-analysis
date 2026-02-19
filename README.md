@@ -52,6 +52,20 @@ The analysis answers business-relevant questions such as:
 - Business metric calculations
 
 ---
+## Results
+
+### Top Customer per Genre
+Identifies the highest-spending customer within each music genre.  
+If multiple customers tie for first place, all are included.
+
+![Top Customer per Genre](results/top_customer_per_genre.png)
+
+---
+
+### Top Customers per Country
+Ranks customers within each country based on total spending, highlighting geographic revenue leaders.
+
+![Top Customers per Country](results/top3_per_country.png)
 
 ## Key Insights
 - Customer Spending Patterns:
