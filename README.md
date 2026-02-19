@@ -18,6 +18,9 @@ The dataset is the Chinook database, which represents a digital media store with
 
 This structure allows complex relational queries similar to real company databases.
 
+Download it here:
+https://github.com/lerocha/chinook-database
+
 ---
 
 ## Objectives
